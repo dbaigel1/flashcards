@@ -1,0 +1,39 @@
+{
+
+  "level1": [
+    {
+      "front": "hi",
+      "back": "こんにちは",
+      "lastDate": "07-29-2020",
+      "currentLevel": 1,
+      "valueToStudy": 1,
+      "id": 1
+
+    },
+    {
+        "front": "hello",
+        "back": "こんにちは",
+        "lastDate": "07-29-2020",
+        "currentLevel": 1,
+        "valueToStudy": 1,
+        "id": 2
+  
+      }
+
+    ],
+  "level2": [
+    {
+        "front": "sup",
+        "back": "こんにちは",
+        "lastDate": "07-27-2020",
+        "currentLevel": 1,
+        "valueToStudy": 5,
+        "id": 3
+  
+      }
+  ],
+  "level3": []
+
+
+
+}

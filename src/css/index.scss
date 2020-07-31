@@ -1,0 +1,41 @@
+.listCard {
+    height: 30vh;
+    width: 30vw;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.todaysCards {
+    height: 20vh;
+    width: 20vw;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2vh;
+}
+
+.kpiContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    .kpi {
+        height: 20vh;
+        width: 20vw;
+        background-color: whitesmoke;
+        border: 1px solid black;
+        
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 2vw;
+        margin-right: 2vw;
+    }
+}
